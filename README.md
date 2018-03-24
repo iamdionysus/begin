@@ -27,6 +27,7 @@ git clone https://github.com/tpope/vim-commentary.git
 - [Download Git](https://git-scm.com/downloads)
 - [Git Basic](https://try.github.io)
 - [Github Basic](https://guides.github.com/activities/hello-world/)
+- [Github Desktop](https://desktop.github.com)
 
 ## Python
 
